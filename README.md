@@ -1,1 +1,2 @@
 # Algorithm-Data-Structure
+[Learning Algorithm](https://www.youtube.com/watch?v=O79pJ7qXwoE)
